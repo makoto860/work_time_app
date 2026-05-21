@@ -1,0 +1,15 @@
+/Users/shimodatemakoto/Desktop/work_time/bin/Debug/net10.0/work_time
+/Users/shimodatemakoto/Desktop/work_time/bin/Debug/net10.0/work_time.deps.json
+/Users/shimodatemakoto/Desktop/work_time/bin/Debug/net10.0/work_time.runtimeconfig.json
+/Users/shimodatemakoto/Desktop/work_time/bin/Debug/net10.0/work_time.dll
+/Users/shimodatemakoto/Desktop/work_time/bin/Debug/net10.0/work_time.pdb
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.AssemblyInfoInputs.cache
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.AssemblyInfo.cs
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.csproj.CoreCompileInputs.cache
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.sourcelink.json
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.dll
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/refint/work_time.dll
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.pdb
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/work_time.genruntimeconfig.cache
+/Users/shimodatemakoto/Desktop/work_time/obj/Debug/net10.0/ref/work_time.dll
